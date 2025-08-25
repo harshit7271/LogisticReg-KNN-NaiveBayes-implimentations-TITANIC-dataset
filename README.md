@@ -34,4 +34,4 @@ The main objective is to **compare the performance of multiple classifiers** on 
 
 ## 🚀 Installation & Usage
 
-### 1️⃣ Clone Repository  https://github.com/harshit7271/Titanic-ML-Evaluations.git
+### 1️⃣ Clone Repository  https://github.com/harshit7271/https://github.com/harshit7271/LogisticReg-KNN-NaiveBayes-implimentations-TITANIC-dataset
