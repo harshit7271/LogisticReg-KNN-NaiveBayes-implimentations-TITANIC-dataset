@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Prediction - Performance Evaluation with ML
 
-This project implements **Logistic Regression, K-Nearest Neighbors (KNN),Naive Bayes, Decision Trees and SVM** algorithms to predict passenger survival on the Titanic dataset.  
+This project implements **Logistic Regression, K-Nearest Neighbors (KNN),Naive Bayes, Decision Trees, SVM and cross validation** algorithms to predict passenger survival on the Titanic dataset.  
 The dataset is sourced from the **Seaborn library** (`sns.load_dataset('titanic')`).  
 
 The main objective is to **compare the performance of multiple classifiers** on the same dataset and evaluate them using accuracy, precision, recall, F1-score, and confusion matrices.
@@ -17,6 +17,7 @@ The main objective is to **compare the performance of multiple classifiers** on 
   - Gaussian Naive Bayes
   - Decision Tree Classifier
   - SVM (Support Vector Machine)
+  - Cross Validation
 - Compares models based on:
   - ✅ Accuracy  
   - ✅ Precision, Recall, F1-score  
